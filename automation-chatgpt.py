@@ -1,3 +1,4 @@
+#Copyright (c) 2023 Marvin-VW
 import openai
 import subprocess
 
